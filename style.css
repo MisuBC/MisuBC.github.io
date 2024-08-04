@@ -1,0 +1,443 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap');
+
+
+body{
+background-color: #f8e6e2;
+
+}
+/*--- color al menu, Navbar---*/
+nav{
+background-color: #f8c79e;
+}
+/* ---color al menu, Navbar---*/
+
+
+/*---tipo texto 1---*/
+playwrite-ng-modern- .text1 {
+    font-family: "Playwrite NG Modern", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100 px;
+    font-style: normal;
+  }
+/*---tipo texto 1---*/
+ .nav-item a {
+color: rgb(0, 0, 0);
+  }
+  .nav-item a:hover{
+    color: rgb(255, 255, 255);
+}
+
+.Subtitulo1{
+font-family:Georgia, 'Times New Roman', Times, serif;
+color: rgb(248, 142, 71);
+font-size: 35px;
+text-align: center;
+border-style:dotted;
+border-color:rgb(241, 222, 139);
+background-color: #f8e4ac;
+}
+
+.Subtitulo2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight:400;
+  color:black;
+  font-size: 15px;
+  text-align:center;
+  }
+
+.source-code-pro-uniquifier {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+  text-align: justify;
+}
+
+.source-code-pro-uniquifier1 {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+ text-align: center;
+}
+
+.creditos{
+  color: rgb(165, 162, 162);
+  font-size: 13px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+text-align: center;
+}
+
+.GatoAntiguo{
+background-image: url("img/gatoEgipcioAntiguo.jpg");
+width: 350px;
+height: 800px;
+border-radius: 20px;
+border-style: dashed;
+border-color: brown;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+
+.GatoAntiguo:hover{
+  background-image: url("img/GatoPinturaAntigua.jpg");
+border-radius: 20px;
+border-style: dashed;
+border-color: brown;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+.GatoBrujeria{
+background-image: url(img/GatoBrujeria.jpg);
+width: 230px;
+height: 460px;
+border-radius: 20px;
+border-style: dashed;
+border-color: rgb(65, 8, 77);
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+
+}
+
+.RazaGatos{
+background-image: url(img/RazasGatos2.jpg);
+border-radius: 40px;
+width: 247px;
+height: 250px;
+border-style: dashed;
+border-color: aqua;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+/*Gatos persa*/
+.GatoPersa{
+
+  background-image: url(img/GatoPersaFachero.jpg);
+  border-radius: 10px;
+  width: 240px;
+  height: 240px;
+  border-style: dashed;
+  border-color: orange;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+ margin-bottom: auto;
+}
+
+.GatoPersa:hover{
+background-image: url(img/GatoPersa3.jpg);
+border-radius: 10px;
+width: 240px;
+height: 240px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+/*Gatos persa*/
+/*Gatos Siamés*/
+.GatoSiames{
+ background-image: url(img/GatosBebesSiames.jpeg);
+ border-radius: 10px;
+ width: 230px;
+ height: 230px;
+ border-style: dashed;
+ border-color: orange;
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: auto;
+margin-bottom: auto;
+}
+.GatoSiames:hover{
+
+  background-image: url(img/GatoSiames2.jpg);
+  border-radius: 10px;
+  width: 230px;
+  height: 230px;
+  border-style: dashed;
+  border-color: orange;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+ margin-bottom: auto;
+}
+/*Gatos Siamés*/
+
+/*Gatos Chartreux*/
+.GatosChartreux{
+background-image: url(img/GatoChartreuxAdulto.jpg);
+border-radius: 10px;
+width: 230px;
+height: 230px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+.GatosChartreux:hover{
+background-image: url(img/GatosBebesChartreux2.jpg);
+border-radius: 10px;
+width: 230px;
+height: 230px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+/*Gatos Chartreux*/
+/*Gatos Maine Coon*/
+
+.GatoBosqueNoruega{
+  background-image: url(img/GatoNoruego1.jpg);
+  border-radius: 10px;
+width: 220px;
+height: 220px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+.GatoBosqueNoruega:hover{
+background-image: url(img/GatoNoruego2.jpg);
+border-radius: 10px;
+width: 220px;
+height: 220px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+/*Gatos Maine Coon*/
+/*Gato Exotico*/
+
+.GatoExotico{
+background-image: url(img/GatoExotico1.jpg);
+border-radius: 10px;
+width: 230px;
+height: 230px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+.GatoExotico:hover{
+background-image: url(img/GatoExotico2.jpg);  
+border-radius: 10px;
+width: 230px;
+height: 230px;
+border-style: dashed;
+border-color: orange;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: auto;
+margin-bottom: auto;
+}
+
+/*Gato Exotico*/
+
+.FondoColor{
+background-color: #f8e6e2;
+border-style: none;
+}
+
+.GatoFlor{
+  background-image: url(img/GatoFlor.jpg);
+width: 240px;
+height: 240px;
+  border-style: dashed;
+  border-radius: 10px;
+  border-color: rgb(252, 255, 84);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+ margin-bottom: auto;
+}
+.GatoMeme{
+background-image:url(img/GrumpyCat.jpg);
+width: 220px;
+height: 210px;
+  border-style: dashed;
+  border-radius: 10px;
+  border-color: rgb(252, 255, 84);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+ margin-bottom: auto;
+}
+.GatoMeme:hover{
+background-image: url(img/NyanCatRecorte.png);
+width: 220px;
+height: 210px;
+  border-style: dashed;
+  border-radius: 10px;
+  border-color: rgb(252, 255, 84);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+ margin-bottom: auto;
+
+}
+.source-code-pro-uniquifierOscuro {
+  font-family: "Source Code Pro", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  text-align: justify;
+}
+
+.GatoComiendo{
+background-image: url(img/GatoGordoComiendo.jpg);
+width: 220px;
+height: 200px;
+  border-style:double;
+  border-radius: 10px;
+  border-color: rgb(255, 179, 65);
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+ margin-bottom: auto;
+
+}
+.GatoLimpio{
+  background-image: url(img/GatoLimpio.jpg);
+  width: 220px;
+  height: 190px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+
+}
+
+.GatoDoctor{
+  background-image: url(img/GatoVeterinario.jpg);
+  width: 220px;
+  height: 230px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+}
+
+.GatoJugando{
+  background-image: url(img/GatoGamerRecorte.png);
+  width: 220px;
+  height: 230px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+}
+
+.GatoDurmiendo{
+  background-image: url(img/GatoRecorteDurmiendo.png);
+  width: 220px;
+  height: 210px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+
+}
+
+.GatoPelea{
+  background-image: url(img/GatosPeleando.png);
+  width: 220px;
+  height: 210px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+}
+
+.GatoEmergencia{
+  background-image: url(img/GatoHerido.png);
+  width: 200px;
+  height: 190px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+}
+
+.GatoAmor{
+  background-image: url(img/GatoCariñoso.png);
+  width: 240px;
+  height: 290px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+}
+
+.GatoViaje{
+  background-image: url(img/GatoViajando.png);
+  width: 220px;
+  height: 220px;
+    border-style: double;
+    border-radius: 10px;
+    border-color: rgb(252, 255, 84);
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+   margin-bottom: auto;
+
+}
