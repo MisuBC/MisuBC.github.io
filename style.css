@@ -441,3 +441,15 @@ height: 200px;
    margin-bottom: auto;
 
 }
+
+.estiloLink{
+color: orangered;
+font-style: normal;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: none;
+}
+
+.estiloLink:hover{
+color: rgb(167, 167, 22)
+
+}
